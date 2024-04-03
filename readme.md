@@ -1,11 +1,10 @@
 # Manage User Role Using ORM JPA HIbernate SpringData
 <h2>Structure de projet : </h2>
 <img src="Capture/capture1.png" alt="Structure du projet">
-## Objectif
-### Pre-requis :
+<h2>Pre-requis :</h2>
 1. Installer IntelliJ Ultimate
 2. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock
-## Etapes :
+<h2>Etapes :</h2>
 1. Créer les entités JPA :
     - User ayant les attributs :
         - userId de type String
